@@ -2,5 +2,5 @@
 - 👀 I’m interested in **Web3**: Solidity - Thirdweb - ...
 - 🌱 I’m currently developing projects mainly in **ASTRO** using React - FramerMotion - TailWind - Vite - GraphQL - ...
 - 💞️ I’m looking to collaborate on helping people to decentralize themselves by providing Web3 powerful tools
-> "*Read the rules even if you don't follow them"* (https://blockchainsucks.vercel.app/)https://blockchainsucks.vercel.app/
+> "*Read the rules even if you don't follow them"* (https://blockchainsucks.vercel.app/)
 
